@@ -1,0 +1,12 @@
+{
+    "parent": "block/orientable",
+    "textures": {
+        "particle": "space:blocks/hydraulic_press_side",
+        "up": "space:blocks/hydraulic_press_side",
+        "down": "space:blocks/hydraulic_press_side",
+        "north": "space:blocks/hydraulic_press_front_on",
+        "east": "space:blocks/hydraulic_press_side",
+        "south": "space:blocks/hydraulic_press_side",
+        "west": "space:blocks/hydraulic_press_side"
+    }
+}

@@ -1,0 +1,13 @@
+
+    "variants": 
+    {
+        "pressing=false,facing=north": { "model": "space:hydraulic_press" },
+        "pressing=false,facing=east": { "model": "space:hydraulic_press", "y": 90 },
+        "pressing=false,facing=south": { "model": "space:hydraulic_press", "y": 180 },
+        "pressing=false,facing=west": { "model": "space:hydraulic_press", "y": 270 },
+        "pressing=true,facing=north": { "model": "space:lit_hydraulic_press" },
+        "pressing=true,facing=east": { "model": "space:lit_hydraulic_press", "y": 90 },
+        "pressing=true,facing=south": { "model": "space:lit_hydraulic_press", "y": 180 },
+        "pressing=true,facing=west": { "model": "space:lit_hydraulic_press", "y":270  }
+    }
+}
